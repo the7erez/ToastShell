@@ -1,0 +1,7 @@
+module components
+
+CalendarView 1.0 CalendarView.qml
+TimerView 1.0 TimerView.qml
+ClockWidget 1.0 ClockWidget.qml
+WorkspacesBar 1.0 WorkspacesBar.qml
+InteractivePill 1.0 InteractivePill.qml
